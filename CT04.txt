@@ -23,3 +23,5 @@ WebUI.setText(findTestObject('Object Repository/test_tayara/Page_Vente et achat 
 WebUI.click(findTestObject('Object Repository/test_tayara/Page_Vente et achat en ligne partout en Tunisie - Tayara/svg_Pros_search'))
 WebUI.verifyElementPresent(findTestObject('Object Repository/test_tayara/Page_clio  Dcouvrez 1298 annonces - Tayara/div_M'), 0)
 WebUI.closeBrowser()
+
+*double test*
